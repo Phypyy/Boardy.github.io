@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/boardy/sitemap.xml
+Sitemap: http://localhost:4000/Boardy/sitemap.xml

@@ -16,6 +16,9 @@ authors:
     name: P
     display_name: P
     avatar: "assets/images/etc/logo.png"
+    description: "หนุ่มคนหนึ่งที่ชอบแมว"
+    web: https://phypyy.com
+    mail: supanut.kus@gmail.com
 
 # Plugins
 plugins:
@@ -54,7 +57,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 # Sass
 sass:

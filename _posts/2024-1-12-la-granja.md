@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "La Granja"
-categories: [Farming]
-tags: [Dice Drafting]
+title: "วิธีเล่น La Granja"
+categories: [Dice Drafting]
+tags: [วิธีเล่น]
 image: assets/images/la-granja/pic6655621.png
+author: p
+featured: true
 toc: true
 comments: false
 ---
 
-> ยูโรระดับกลาง กลไก Dice Drafting รับบทเป็นชาวไร่ขายของในตลาด แต่จากชาวไร่อาจจะกลายเป็นมาเฟียคุมตลาดแทนได้
+> ยูโรระดับกลาง กลไก Dice Drafting รับบทเป็นชาวไร่ส่งของขายในตลาด แต่จากชาวไร่อาจจะกลายเป็นมาเฟียคุมตลาดแทนได้!
 
 ![alt](../assets/images/la-granja/pic7768271.png)
 
@@ -61,7 +63,7 @@ comments: false
 
 #### Revenue Phase
 
-1. ทอยเต๋าตามจำนวนผู้เล่น +1
+1. ทอยเต๋าตามจำนวนผู้เล่น x2 แล้ว +1
 2. นำเต๋าไปวางไว้ให้ตรงกับ Revenue ในบอร์ดกลาง
 3. ผลัดกันหยิบเต๋าทีละลูกแล้วทำรับ Revenue ตามหน้าเต๋า 2 ครั้ง
 4. ลูกที่เหลืออีกลูกทุกคนจะได้ทำเหมือนกัน

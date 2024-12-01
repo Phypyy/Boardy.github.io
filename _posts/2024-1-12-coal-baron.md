@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Coal Baron"
-categories: [Industry / Manufacturing]
-tags: [Worker Placement]
+title: "วิธีเล่น Coal Baron"
+categories: [Worker Placement]
+tags: [วิธีเล่น]
 image: assets/images/coal-baron/pic8417498.png
+author: p
+featured: true
 toc: true
 comments: false
 ---
