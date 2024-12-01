@@ -5,6 +5,7 @@ description: "Boardy"
 logo: "assets/images/etc/logo.png"
 favicon: "assets/images/etc/logo.png"
 baseurl: /Boardy
+# google_analytics: "UA-46278016-1"
 disqus: "demowebsite"
 include: ["_pages"]
 permalink: /:title/
