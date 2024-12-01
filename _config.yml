@@ -4,7 +4,7 @@ title: "Boardy"
 description: "Boardy"
 logo: "assets/images/etc/logo.png"
 favicon: "assets/images/etc/logo.png"
-baseurl: /boardy
+baseurl: /Boardy
 disqus: "demowebsite"
 include: ["_pages"]
 permalink: /:title/
