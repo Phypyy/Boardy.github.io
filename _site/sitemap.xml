@@ -13,6 +13,10 @@
 <lastmod>2024-02-12T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Boardy/let-go-to-japan/</loc>
+<lastmod>2024-02-12T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/Boardy/about</loc>
 </url>
 <url>
@@ -38,5 +42,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/Boardy/category/18xx/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Boardy/category/family/</loc>
 </url>
 </urlset>
