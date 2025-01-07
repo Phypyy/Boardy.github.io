@@ -5,9 +5,57 @@
     <description>Boardy</description>
     <link>http://localhost:4000/Boardy/</link>
     <atom:link href="http://localhost:4000/Boardy/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Dec 2024 16:11:49 +0700</pubDate>
-    <lastBuildDate>Mon, 02 Dec 2024 16:11:49 +0700</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2025 13:53:11 +0700</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2025 13:53:11 +0700</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>The Colonists</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;เราจะมาเป็นผู้นำของหมู่บ้าน ให้หมู่บ้านเจริญรุ่งเรืองที่สุด ผ่านการสร้างสิ่งปลูกสร้างที่อยู่อาศัยและที่ทำงาน โดยจะเล่นกันทั้งหมด 4 ยุค ในแต่ละยุคมี 5 ปี แต่ละปีมี 2 ฤดู และในแต่ฤดูมี 3 Actions รวมแล้วทั้งเกมเรามีทั้งหมด 120 Actions! จบเกมใครมีแต้มเยอะสุดก็ชนะ (เจริญที่สุด)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/the-colonists/32064_0.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;playing&quot;&gt;Playing&lt;/h3&gt;
+
+&lt;p&gt;เป้าหมายของเกมคือการทำแต้มให้ได้มากที่สุดภายใน 4 ยุค จากการเล่น Actions ต่างๆ โดยแต้มส่วนใหญ่จะมาจากการสร้างสิ่งปลูกสร้าง แต่การสร้างสิ่งปลูกสร้างก็ต้องจ่ายสินค้าอุตสาหกรรม (ในเกมจะมีสองประเภทใหญ่ๆ คือ อุตสาหกรรมและของใช้สำหรับคนงาน) ซึ่งสินค้าอุตสาหกรรมสามารถหาได้จากการทำ Actions ในแผนที่ หรือ ผลผลิตจากที่ทำงานที่จะได้ในทุกๆ ปี และแน่นอนว่าเมื่อมีที่ทำงานก็ต้องการคนงาน คนงานก็จะหาได้จากการสร้างหรืออัพเกรดที่อยู่อาศัยเพิ่ม&lt;/p&gt;
+
+&lt;p&gt;หมู่บ้านของเราจะขยายใหญ่ขึ้น จากชาวไร่ 2 คน จนมีโรงหนัง ร้านเสื้อผ้า คาสิโน เกมนี้จึงเป็นการสร้างแบบค่อยๆ สร้างจากฐานขึ้นไป นอกจากหมู่บ้านของเราที่ใหญ่ขึ้น เมืองที่เป็นแผนที่กลางก็จะใหญ่ขึ้นเช่นกัน โดยแผนที่จะประกอบไปด้วยไทล์ Action ที่แตกต่างกันใหญ่ๆ คือ&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;เกี่ยวกับสินค้า (เอาไปเลย กับ แลกเปลี่ยน)&lt;/li&gt;
+  &lt;li&gt;สร้างอาคารชนิดนั้นๆ&lt;/li&gt;
+  &lt;li&gt;จั่วการ์ดพิเศษ / เล่นการ์ด&lt;/li&gt;
+  &lt;li&gt;การสร้างสถานทูต (สถานทูตจะทำให้เรามีความสามารถติดตัวมากขึ้น)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;ตอนแรกแผนที่จะมีขนาดแค่ 12 ไทล์ แต่ในยุคต่อๆ ไป แผนที่ก็จะขยายตัวมากขึ้น การมีแค่ 3 Actions คงไม่พอกับ Actions มากมายในแผนที่ การวางแผนการเดินจึงเป็นสิ่งสำคัญมาก&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/the-colonists/32061_0.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;การวางแผนการเก็บสินค้าก็เป็นอีกสิ่งที่สำคัญเช่นกัน เพราะคลังเก็บของที่จำกัด และบังคับให้จ่ายสินค้าจากคลังเท่านั้นเมื่อทำ Actions ในแผนที่ แต่เกมก็ไม่ได้ใจร้ายขนาดนั้น ผู้เล่นสามารถสลับไปมาระหว่างคลังกับโรงเก็บของได้ (ยกเว้นสลับไปมากับที่ทำงาน ในเกมเรียก “Buffer”)&lt;/p&gt;
+
+&lt;h4 id=&quot;experience&quot;&gt;Experience&lt;/h4&gt;
+
+&lt;p&gt;เมื่อมองภาพรวมคร่าวๆ เกมทำแค่เดิน 3 Actions วนไปเรื่อยๆ ตลอดทั้งเกมเราจะวุ่นอยู่กับการแปลงสินค้าไปมา แต่เมื่อเล่นจริง 3 ชั่วโมง++ เพราะการจะก้าวไปทำแต่ละ Actions ต้องคิดแล้วคิดอีก พอหมู่บ้านเราขยายขึ้น คนเริ่มต้องการค่าใช้จ่ายมากขึ้น เราก็ต้องสร้างโรงงานผลิตอาหารไม่ก็เสื้อผ้า ไม่งั้นก็ต้องเดินไปเอาจากในแผนที่ ระหว่างนั้นก็อาจจะมีของบางอย่างระหว่างทาง บางทีแวะไปเรื่อยจนลืมไปว่าตอนแรกจะทำอะไร ฮาๆ และนี่คือประสบการณ์การเล่น 2 คน ถ้า 3 คนอาจจะคิดแล้วอีกว่าจะกางดีมั้ย แต่ถ้า 4 คนคือไม่กางแน่นอน รอไม่ไหว&lt;/p&gt;
+
+&lt;p&gt;การเล่นคนเดียวจะเป็นการเล่นแบบทำคะแนนให้ได้สูงที่สุด ไม่ได้มีบอทมาบล็อค Action อะไร ก็ถือว่าเป็นการเล่นเพลินๆ ฟิลเหมือนเรากำลังก่อร่างสร้างหมู่บ้านไปเรื่อยๆ&lt;/p&gt;
+
+&lt;h3 id=&quot;note&quot;&gt;Note&lt;/h3&gt;
+
+&lt;p&gt;เกมนี้ควรมี Insert อย่างยิ่ง เพราะ Components เยอะมากๆๆๆ ที่ใช้อยู่จะเป็นกล่องแบ่งช่อง 30 ช่อง 2 อัน หาได้จากร้านขายของญี่ปุ่น 60 บาท (พวก Komonoya)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Boardy/the-colonists/</link>
+        <guid isPermaLink="true">http://localhost:4000/Boardy/the-colonists/</guid>
+        
+        <category>รีวิว</category>
+        
+        
+        <category>Worker Placement</category>
+        
+      </item>
     
       <item>
         <title>Let&apos;s Go to Japan</title>
@@ -47,7 +95,7 @@
 
 &lt;p&gt;เกมนี้เหมาะสำหรับทุกเพศทุกวัย ไม่ว่าจะเป็นมือใหม่หรือคนที่มองหาเกมเบาๆ เล่นสนุกไปกับธีมญี่ปุ่นสดใส เล่นแล้วไม่เครียด แต่ยังได้คิดเล็กๆ น้อยๆ เพื่อวางแผนการเดินทางในฝันของตัวเอง&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Feb 2024 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/Boardy/let-go-to-japan/</link>
         <guid isPermaLink="true">http://localhost:4000/Boardy/let-go-to-japan/</guid>
         
@@ -111,7 +159,7 @@
   &lt;p&gt;1862: Railway Mania in the Eastern Counties เป็นเกมที่ท้าทายทั้งในด้านกลยุทธ์และการบริหาร แม้ระบบจะซับซ้อน แต่ก็เต็มไปด้วยจุดเด่นที่ทำให้สนุกในทุกจำนวนผู้เล่น เหมาะกับผู้ที่มองหา 18xx ที่เข้มข้นและมีความลึกในทุกการตัดสินใจ&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 12 Feb 2024 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/Boardy/1862/</link>
         <guid isPermaLink="true">http://localhost:4000/Boardy/1862/</guid>
         
@@ -268,7 +316,7 @@
   &lt;li&gt;ใครแต้มมากสุดชนะ&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2024 00:00:00 +0700</pubDate>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/Boardy/la-granja/</link>
         <guid isPermaLink="true">http://localhost:4000/Boardy/la-granja/</guid>
         
@@ -398,7 +446,7 @@
 &lt;code&gt;(ต่างกัน 2 อัน = -4 แต้ม)&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2024 00:00:00 +0700</pubDate>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/Boardy/coal-baron/</link>
         <guid isPermaLink="true">http://localhost:4000/Boardy/coal-baron/</guid>
         
